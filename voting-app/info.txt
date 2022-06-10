@@ -1,0 +1,2 @@
+# use minikube service command to expose url
+minikube service <service name> --url
